@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: viewing conditions in sign language learning
-- 🌱 I’m currently learning: ...
-- 👯 I’m looking to collaborate on: ...
+- 👩 I'm a PhD student in the School of Psychology at the University of Birmingham 
+- 🎓 My thesis is on viewing conditions in (L2) sign language learning
+- 🔭 I’m currently working on: manuscript on viewing angle in sign language comprehension
+- 🌱 I’m currently learning: dataviz in R, data simulation
+- 💻 I enjoy using: PsychoPy, R  
 - 🤔 I’m looking for help with: longitudinal SEM
-- 💬 Ask me about: ...
+- 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
 - 📫 How to reach me: via email f.watkins@pgr.bham.ac.uk 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- 🌈 Pronouns: she/her
 
 <!--
 **freyawatkins/freyawatkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
