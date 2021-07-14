@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: viewing conditions in sign language learning
+- 🌱 I’m currently learning: ...
+- 👯 I’m looking to collaborate on: ...
+- 🤔 I’m looking for help with: longitudinal SEM
+- 💬 Ask me about: ...
+- 📫 How to reach me: via email f.watkins@pgr.bham.ac.uk 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
+
 <!--
 **freyawatkins/freyawatkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
