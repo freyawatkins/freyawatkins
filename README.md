@@ -7,7 +7,7 @@
 - 💻 I enjoy using: PsychoPy, R  
 - 🤔 I’m looking for help with: longitudinal SEM
 - 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
-- 📫 How to reach me: via email f.watkins@pgr.bham.ac.uk 
+- 📫 How to reach me: via email f.watkins [at] pgr [dot] bham [dot] ac [dot] uk 
 - 🌈 Pronouns: she/her
 
 <!--
