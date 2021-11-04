@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on: longitudinal analysis of cognitive skills in BSL/English interpreting students 
 - 🌱 I’m currently learning: dataviz in R, data simulation
 - 💻 I enjoy using: PsychoPy, R, GitHub! 
-- 🤔 I’m looking for help with: longitudinal SEM
+- 🤔 I’m looking for help with: multiple imputation
 - 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
-- 📫 Email me at: f [dot] watkins [at] pgr [dot] bham [dot] ac [dot] uk 
+- 📫 How to reach me: f [dot] watkins [at] pgr [dot] bham [dot] ac [dot] uk 
 - 🌈 Pronouns: she/her
 
 <!--
