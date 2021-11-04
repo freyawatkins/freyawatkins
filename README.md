@@ -7,7 +7,7 @@
 - 💻 I enjoy using: PsychoPy, R, GitHub! 
 - 🤔 I’m looking for help with: multiple imputation
 - 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
-- 📫 How to reach me: f [dot] watkins [at] pgr [dot] bham [dot] ac [dot] uk 
+- 📫 How to reach me: <f.watkins@pgr.bham.ac.uk>
 - 🌈 Pronouns: she/her
 
 <!--
