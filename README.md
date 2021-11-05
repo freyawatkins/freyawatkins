@@ -4,7 +4,7 @@
 - 🎓 My thesis is on viewing conditions in (L2) sign language learning
 - 🔭 I’m currently working on: longitudinal analysis of cognitive skills in BSL/English interpreting students 
 - 🌱 I’m currently learning: dataviz in R, data simulation
-- 💻 I enjoy using: PsychoPy, R, GitHub! 
+- 💻 I enjoy using: PsychoPy, R, Git
 - 🤔 I’m looking for help with: multiple imputation
 - 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
 - 📫 How to reach me: <f.watkins@pgr.bham.ac.uk>
