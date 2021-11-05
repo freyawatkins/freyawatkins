@@ -3,7 +3,7 @@
 - 👩 I'm a PhD student in the School of Psychology at the University of Birmingham 
 - 🎓 My thesis is on viewing conditions in (L2) sign language learning
 - 🔭 I’m currently working on: longitudinal analysis of cognitive skills in BSL/English interpreting students 
-- 🌱 I’m currently learning: dataviz in R, data simulation
+- 🌱 I’m currently learning: dataviz in R, multiple imputation
 - 💻 I enjoy using: PsychoPy, R, Git
 - 🤔 I’m looking for help with: multiple imputation
 - 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
