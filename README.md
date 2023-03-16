@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 👩 I'm a PhD student in the School of Psychology at the University of Birmingham 
-- 🎓 My thesis is on viewing conditions in (L2) sign language learning
-- 🔭 I’m currently working on: longitudinal analysis of cognitive skills in BSL/English interpreting students 
-- 🌱 I’m currently learning: dataviz in R, multiple imputation
-- 💻 I enjoy using: PsychoPy, R, Git
+- 👩 I'm a researcher & PhD student in psycholinguistics at the University of Birmingham 
+- 🎓 My thesis is on viewing conditions in (L2) sign language learning 
+- 🌱 I’m currently learning: dataviz in R, mapping with Leaflet
+- 💻 I enjoy using: R, Git, PsychoPy
 - 🤔 I’m looking for help with: multiple imputation
 - 💬 Ask me about: knitting 🧶, cricket 🏏, my cat Mika 🐈 
 - 📫 How to reach me: <f.watkins@pgr.bham.ac.uk>
